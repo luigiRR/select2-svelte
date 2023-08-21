@@ -1,6 +1,7 @@
 {
 	"name": "select2-svelte",
 	"version": "0.0.1",
+	"description": "componente svelte para usar select2 basico",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
